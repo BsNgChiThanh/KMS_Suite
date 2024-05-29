@@ -1,6 +1,6 @@
 # KMS Suite kích hoạt windows và office #
 
-## Kích hoạt tử Windows PowerShell ##
+## Kích hoạt từ Windows PowerShell ##
 - Kích hoạt trực tiếp từ **Windows PowerShell:**
   - Đầu tiên bấm tổ hợp phiếm: **Windows + R**, sau đó điền **PowerShell** rồi bấm enter.
   - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/73f131a2-efd7-4c50-9a36-106b02d83fca)
