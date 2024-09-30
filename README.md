@@ -2,6 +2,8 @@ Tác giả: Nguyễn Chí Thành
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231749370-cff3f452-4349-46bd-80e4-dd85653ca27f.jpg)
 
+- - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
+
 # KMS Suite kích hoạt windows và office #
 
 ## Kích hoạt từ Windows PowerShell ##
@@ -14,10 +16,6 @@ Tác giả: Nguyễn Chí Thành
 
       ```php
      irm https://raw.githubusercontent.com/BsNgChiThanh/KMS_Suite/IMP/KMS_Suite.ps1 | iex
-      ```
-
-      ```php
-      irm https://bit.ly/3yGXrgt | iex
       ```
 
  ## Download file cmd rồi Run as Administrator ##
