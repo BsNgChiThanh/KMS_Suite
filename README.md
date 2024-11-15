@@ -20,7 +20,8 @@ Tác giả: Nguyễn Chí Thành
       ```
 
  ## Download file cmd rồi Run as Administrator ##
- - Download bấm [vào đây](https://raw.githubusercontent.com/BsNgChiThanh/KMS_Suite/IMP/KMSSuite.cmd)
+
+[![image](https://github.com/user-attachments/assets/87c02968-9470-46de-accd-b6c3dcab2515)](https://raw.githubusercontent.com/BsNgChiThanh/KMS_Suite/IMP/KMSSuite.cmd)
 
 ## Hình ảnh KMS Suite ##
 - ![image](https://github.com/BsNgChiThanh/KMS_Suite/assets/82578024/a81d80fc-f80b-457f-8e48-93420b1b844e)
